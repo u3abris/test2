@@ -11,3 +11,7 @@ div {
     margin: 25px;
 }
 .pink { background-color: pink; width: 600px; border: none;}
+
+.blue { background-color: cyan; width: 450px; border: none;}
+
+p.blue { color: blue; background-color: cyan; }
