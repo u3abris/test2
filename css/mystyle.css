@@ -4,3 +4,10 @@
   p    { color: #000000; }
   table { border: 1px solid black; border-collapse: collapse; }
   tr, td { border: 1px solid black; }
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+.pink { background-color: pink; }
